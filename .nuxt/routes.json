@@ -1,0 +1,65 @@
+[
+  {
+    "name": "articles",
+    "path": "/articles",
+    "component": "D:\\\\Workspace\\\\Web\\\\NUXT\\\\nuxt-with-express\\\\pages\\\\articles\\\\index.vue",
+    "chunkName": "pages/articles/index",
+    "_name": "_67a3666e"
+  },
+  {
+    "name": "articles-add",
+    "path": "/articles/add",
+    "component": "D:\\\\Workspace\\\\Web\\\\NUXT\\\\nuxt-with-express\\\\pages\\\\articles\\\\add.vue",
+    "chunkName": "pages/articles/add",
+    "_name": "_4d5867bd"
+  },
+  {
+    "name": "user-login",
+    "path": "/user/login",
+    "component": "D:\\\\Workspace\\\\Web\\\\NUXT\\\\nuxt-with-express\\\\pages\\\\user\\\\login.vue",
+    "chunkName": "pages/user/login",
+    "_name": "_4a61b892"
+  },
+  {
+    "name": "user-logout",
+    "path": "/user/logout",
+    "component": "D:\\\\Workspace\\\\Web\\\\NUXT\\\\nuxt-with-express\\\\pages\\\\user\\\\logout.vue",
+    "chunkName": "pages/user/logout",
+    "_name": "_67b348a8"
+  },
+  {
+    "name": "user-my-account",
+    "path": "/user/my-account",
+    "component": "D:\\\\Workspace\\\\Web\\\\NUXT\\\\nuxt-with-express\\\\pages\\\\user\\\\my-account.vue",
+    "chunkName": "pages/user/my-account",
+    "_name": "_808721a4"
+  },
+  {
+    "name": "user-register",
+    "path": "/user/register",
+    "component": "D:\\\\Workspace\\\\Web\\\\NUXT\\\\nuxt-with-express\\\\pages\\\\user\\\\register.vue",
+    "chunkName": "pages/user/register",
+    "_name": "_65437476"
+  },
+  {
+    "name": "articles-id",
+    "path": "/articles/:id",
+    "component": "D:\\\\Workspace\\\\Web\\\\NUXT\\\\nuxt-with-express\\\\pages\\\\articles\\\\_id\\\\index.vue",
+    "chunkName": "pages/articles/_id/index",
+    "_name": "_9dcc8928"
+  },
+  {
+    "name": "articles-id-update",
+    "path": "/articles/:id/update",
+    "component": "D:\\\\Workspace\\\\Web\\\\NUXT\\\\nuxt-with-express\\\\pages\\\\articles\\\\_id\\\\update.vue",
+    "chunkName": "pages/articles/_id/update",
+    "_name": "_3691e61f"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\Workspace\\\\Web\\\\NUXT\\\\nuxt-with-express\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_2ef9e18b"
+  }
+]
